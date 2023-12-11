@@ -1,0 +1,49 @@
+.link-unstyled{
+    color: rgb(0, 0, 0);  
+}
+
+.link-unstyled:hover{
+    color:#555555;
+    border-bottom: solid 1px #555555;
+    border-width: 2px;
+}
+
+.test{
+    color:#f0a400;
+}
+
+.w-15{
+    width: 15%;
+}
+
+.bg-light-gray{
+    background-color:#e2e2e2;
+}
+
+.burger-image{
+    width: 90%;
+}
+
+.burger-description{
+    text-align: justify;
+}
+
+.custom-btn-menu{
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+}
+
+.custom-btn-menu:hover{
+    background-color: rgb(206, 134, 0);
+}
+
+.bg-dark-gray{
+    background-color: #949494;
+}
+
+.btn-menu{
+    background-color: #e2e2e2;
+    border: none;
+    border-bottom: solid 1px black;
+}
