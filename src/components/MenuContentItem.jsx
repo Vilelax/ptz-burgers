@@ -1,9 +1,6 @@
 
 export default function MenuContentItem({img, title, description, price}){
 
-    
-    
-
     return (
         <div className="row p-5 bg-light my-5 rounded-4">
             <div className="col-12 col-md-4 text-center">
